@@ -1,0 +1,19 @@
+Executable War Sample Project
+=============================
+
+This is a sample project that uses the executable-war package available at
+http://github.com/jfrichard/executable-war.
+
+To build, you will need to fetch a copy of the executable-war package, then
+install it with Maven.
+
+You can then build this very project using Maven.  Once this is done, you can
+simply run the WAR file that appears in the target/ directory as such:
+
+ $ java -jar target/executable-war-sample-*.war
+
+You should be able to see "Hello World!" at http://localhost:8080/.
+
+Or you can simply deploy the WAR file to any servlet container, and get the same
+result when visiting the application with a browser.
+
