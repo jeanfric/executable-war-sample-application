@@ -8,6 +8,10 @@
     <version>1.0-SNAPSHOT</version>
     <name>executable-war-sample-project</name>
     <url>http://inuua.org/</url>
+    <scm>
+        <connection>scm:git:git://github.com/jfrichard/executable-war-sample-application.git</connection>
+        <url>scm:git:git://github.com/jfrichard/executable-war-sample-application.git</url>
+    </scm>
     <properties>
         <winstoneFlavour>winstone-lite</winstoneFlavour>
         <winstoneVersion>0.9.10</winstoneVersion>
