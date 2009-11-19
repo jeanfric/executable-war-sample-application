@@ -26,6 +26,5 @@ public class HelloServlet extends HttpServlet {
         } finally {
             out.close();
         }
-
     }
 }
