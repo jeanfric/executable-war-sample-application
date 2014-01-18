@@ -1,10 +1,10 @@
-Executable War Sample Project
+Executable WAR Sample Project
 =============================
 
 This is a sample project that uses the executable-war package available at
-http://github.com/jfrichard/executable-war.
+http://github.com/jeanfric/executable-war.
 
-To build, you will need to fetch a copy of the executable-war package, then
+To build, you will need to fetch a copy of the executable-war project, then
 install it with Maven.
 
 You can then build this very project using Maven.  Once this is done, you can
