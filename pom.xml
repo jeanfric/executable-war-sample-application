@@ -9,8 +9,8 @@
     <name>executable-war-sample-project</name>
     <url>http://inuua.org/</url>
     <scm>
-        <connection>scm:git:git://github.com/jfrichard/executable-war-sample-application.git</connection>
-        <url>scm:git:git://github.com/jfrichard/executable-war-sample-application.git</url>
+        <connection>scm:git:https://github.com/jeanfric/executable-war-sample-application.git</connection>
+        <url>scm:git:https://github.com/jeanfric/executable-war-sample-application.git</url>
     </scm>
     <properties>
         <winstoneFlavour>winstone-lite</winstoneFlavour>
